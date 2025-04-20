@@ -8,6 +8,18 @@ Resume Builder is a web-based application that allows users to create, customize
     <source src="task-video.mp4" type="video/mp4">
   </video>
 </div>
+## 🎥 Video Demonstration
+
+### Full Tutorial (YouTube)
+[![How to Use Our App](https://youtu.be/tHHHMjIkmVg)
+
+### Quick Demo (GitHub-Hosted)
+![Feature Preview](https://user-images.githubusercontent.com/12345678/123456789-abc123-def456-task-video.mp4)
+
+### UI Animation (GIF)
+![Mobile Interaction](task-video.gif)
+
+
 
 ## 🖼️ Screenshots
 <div align="center">
