@@ -4,12 +4,10 @@ Resume Builder is a web-based application that allows users to create, customize
 ## 🎥 Video Demo
 
 <div align="center">
-  <a href="https://youtu.be/tHHHMjIkmVg">
-    <img src="https://img.youtube.com/vi/tHHHMjIkmVg/maxresdefault.jpg" alt="Tutorial Video" width="80%">
-  </a>
-  <p>Click the image to watch the tutorial</p>
+  <video width="80%" controls>
+    <source src="task-video.mp4" type="video/mp4">
+  </video>
 </div>
-
 
 ## 🖼️ Screenshots
 <div align="center">
