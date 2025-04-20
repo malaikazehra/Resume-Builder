@@ -53,6 +53,6 @@ graph TD
 ### Installation (Local Run)  
 
 ```bash
-git clone https://github.com/malaikazehra/resume.git
+git clone https://github.com/malaikazehra/resume-builder.git
 cd resume-builder  
 # Open index.html in browser  
